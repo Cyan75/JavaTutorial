@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f5d3d04-9c36-4b9a-8507-3cf1777ff581" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PJT_d5/src/package1/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LectureNote04.md" beforeDir="false" afterPath="$PROJECT_DIR$/LectureNote04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project01/src/pack/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project01/src/pack/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello/pack/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pack/Hello.java" beforeDir="false" />
-    </list>
+    <list default="true" id="4f5d3d04-9c36-4b9a-8507-3cf1777ff581" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,5 +44,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
