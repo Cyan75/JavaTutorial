@@ -9,7 +9,7 @@
 * InetSocketAddress
     * bind : 나의 주소를 알려주겠습니다.
 
-    ```java
+```java
     package pack;
 
 import java.net.InetSocketAddress;
